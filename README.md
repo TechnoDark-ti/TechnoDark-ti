@@ -1,6 +1,9 @@
 ```zsh
 > neofetch
 ```
+[![Godot Engine](https://img.shields.io/badge/Godot%20Engine-Community%20Member-brightgreen)](https://godotengine.org)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Developer-blue)](https://www.unrealengine.com)
+[![CryEngine](https://img.shields.io/badge/CryEngine-Contributor-orange)](https://www.cryengine.com)
 
 ```csharp
 DarkCells@github
@@ -15,7 +18,7 @@ Learning: C/C++, GDscprit, MySQL,
           Python, Lua
 Hobbies: Working, Studies, Gaming
 Commits: 51
-Discord: 
+Discord: augustosenju
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
