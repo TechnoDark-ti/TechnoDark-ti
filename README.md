@@ -8,12 +8,12 @@
 ```csharp
 DarkCells@github
 -------------------------
-OS: Ubuntu x86_64
+OS: Debian 12
 Shell: zsh 5.8
 Location: Pará, Brasil
 Frameworks: Löve, Django, Pygame, Bootstrap
 Languages: Python, C/C++,
-           PHP, Lua, Linux
+           PHP, Lua, ShellScript
 Learning: C/C++, GDscprit, MySQL,
           Python, Lua
 Hobbies: Working, Studies, Gaming
