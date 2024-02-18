@@ -5,11 +5,11 @@
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Developer-blue)](https://www.unrealengine.com)
 [![CryEngine](https://img.shields.io/badge/CryEngine-Contributor-orange)](https://www.cryengine.com)
 
-```csharp
-DarkCells@github
+```bash
+TechnoDark-ti@github
 -------------------------
 OS: Debian 12
-Shell: zsh 5.8
+Shell: bash 5.1
 Location: Pará, Brasil
 Frameworks: Löve, Django, Pygame, Bootstrap
 Languages: Python, C/C++,
