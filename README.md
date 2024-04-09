@@ -8,18 +8,21 @@
 ```bash
 TechnoDark-ti@github
 -------------------------
-OS: Debian 12
-Shell: bash 5.1
-Location: Pará, Brasil
-Frameworks: Löve, Django, Pygame, Bootstrap
-Languages: Python, C/C++,
-           PHP, Lua, ShellScript
-Learning: C/C++, GDscprit, MySQL,
-          Python, Lua
-Hobbies: Working, Studies, Gaming
-Commits: 52
-Stars: ★★★★☆
-Discord: augustosenju
+
+/(        %              /*               OS: Debian 12                      
+  @@@@@   .@@@@@@@@@          @@@@@       Shell: bash 5.1                           
+  %@@#  (@@@@@@@@@@@@@@@*%@@&##% @@@*     Location: Pará, Brasil                            
+  %@@#  .,(*.@@@@@@@  *(#& /,    @@@*     Frameworks: Löve, Pygame, BootStrap                        
+  &@@(  ..**@*@@,   /@@@         &@@*     Languages: Python, C/C++, PHP, Lua, ShellScript                             Learning: C/C++, GDscprit, MySQL, Python, Lua
+&@@@@   .*(#@@%@,   #@@@     /    @@@@#   Hobbies: Working, Studies, Gaming                            
+(@@@@,   . (,%@@@,   @@@@@    @    #@@@@, Discord: augustosenju                             
+  @@@/  ./%*@@#(,   @@*@(   .@   &@@%                                
+  %@@#  ./#&#@@/*   @@           @@@*                                
+  %@@#   ,/(&#@@,   @(           @@@*                                
+  *@@@*.   %,**#,   @@   .     .#@@@                                 
+    (@@@       *(,&&%/@@@@*&,  @@@,                                  
+                                                                    
+
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
