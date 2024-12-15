@@ -6,27 +6,27 @@
 [![CryEngine](https://img.shields.io/badge/CryEngine-Contributor-orange)](https://www.cryengine.com)
 
 ```bash
-      TechnoDark-ti@github
-      -------------------------
-                                       
-      OS: Debian 12 KDE
-      Host:                      
-      Shell: bash 5.1 
-      IDE: Codeblocks, VS Code, Vim, NetBeans
+TechnoDark-ti@github
+-------------------------
+                                  
+OS: Debian 12 KDE
+Host:                      
+Shell: bash 5.1 
+IDE: Codeblocks, VS Code, Vim, NetBeans
 
-      Languages.programming: Python, C/C++, PHP, Lua, ShellScript
-      Languages.learning: C/C++, GDscprit, MySQL, Python, Lua
+Languages.programming: Python, C/C++, PHP, Lua, ShellScript
+Languages.learning: C/C++, GDscprit, MySQL, Python, Lua
 
-      Location: Pará, Brasil   
-      Frameworks: Löve, Pygame, BootStrap        
-      
-      Hobbies.io: Working, Studies, Gaming
+Location: Pará, Brasil   
+Frameworks: Löve, Pygame, BootStrap        
 
-      Contact:
-      -------------------------
-      Email: marciomoda18@gmail.com
-      LinkedIn: márcio-moda
-      Discord: augustosenju
+Hobbies.io: Working, Studies, Gaming
+
+Contact:
+-------------------------
+Email: marciomoda18@gmail.com
+LinkedIn: márcio-moda
+Discord: augustosenju
 
 ```
 <p align="left">
