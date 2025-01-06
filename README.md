@@ -10,7 +10,7 @@
 <img src="foto_perfi_github2025.png" alt="drawing" width="400" align='left'/>
 
 ```neofetch
-TechnoDark@TI____
+TechnoDark@TI_________________________
 
 OS: Debian 12 KDE, Deepin, BigLinux
 Host: Technodark - Consultoria de TI
