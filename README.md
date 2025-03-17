@@ -10,7 +10,7 @@
 <img src="foto_perfi_github2025.png" alt="drawing" width="400" align='left'/>
 
 ```neofetch
-TechnoDark@TI_________________________
+TechnoDark@TI____________________________________________________
 
 OS: Pop!OS 22.04 LTS
 Host: Technodark - Consultoria de TI
@@ -43,4 +43,4 @@ Steam: augustosenju
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechnoDark-ti&repo=github-readme-stats)](https://github.com/TechnoDark-ti/github-readme-stats)
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnodDark-ti)] -->
