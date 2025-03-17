@@ -15,14 +15,14 @@ TechnoDark@TI________________________________________________
 OS: Pop!OS 22.04 LTS
 Host: Technodark - Consultoria de TI
 Shell: bash 5.1
-Skills: Full-Stack, GameDev, CyberSecurity, NetWorking, IT Manager
+Skills: Full-Stack, GameDev, CyberSecurity, NetWorking
 IDE: Codeblocks, VS Code, Vim, NetBeans
 
 Languages.Programming: Python, C/C++, Lua, ShellScript
 Languages.Learning: C/C++, GDscript, MySQL, Python, Lua
 Languages.Real: Portuguese, English
 
-Game.Engines: Godot Engine 4.3, Cry Engine 5.5, Unreal Engine 4
+Game.Engines: Godot Engine, CryEngine, UnrealEngine
 
 Location: Pará, Brasil
 Frameworks: Löve, Pygame, BootStrap
