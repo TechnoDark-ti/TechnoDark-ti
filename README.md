@@ -12,14 +12,17 @@
 ```neofetch
 TechnoDark@TI_________________________
 
-OS: Debian 12 KDE, Deepin, BigLinux
+OS: Pop!OS 22.04 LTS
 Host: Technodark - Consultoria de TI
 Shell: bash 5.1
+Skills: Full-Stack, GameDev, CyberSecurity, NetWorking, IT Manager
 IDE: Codeblocks, VS Code, Vim, NetBeans
 
 Languages.Programming: Python, C/C++, Lua, ShellScript
 Languages.Learning: C/C++, GDscript, MySQL, Python, Lua
 Languages.Real: Portuguese, English
+
+Game.Engines: Godot Engine 4.3, Cry Engine 5.5, Unreal Engine 4
 
 Location: Pará, Brasil
 Frameworks: Löve, Pygame, BootStrap
@@ -27,6 +30,7 @@ Frameworks: Löve, Pygame, BootStrap
 Email: marciomoda18@gmail.com
 LinkedIn: márcio-moda
 Discord: augustosenju
+Steam: augustosenju
 ```
 ---
 
@@ -37,3 +41,6 @@ Discord: augustosenju
   <img alt="#00ff00" src="https://via.placeholder.com/15/00ff00/000000?text=+" width="25" height="20" />
   <img alt="#00ff00" src="https://via.placeholder.com/15/00ff00/000000?text=+" width="25" height="20" />
 </p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechnoDark-ti&repo=github-readme-stats)](https://github.com/TechnoDark-ti/github-readme-stats)
