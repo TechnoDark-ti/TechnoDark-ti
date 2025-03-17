@@ -10,7 +10,7 @@
 <img src="foto_perfi_github2025.png" alt="drawing" width="400" align='left'/>
 
 ```neofetch
-TechnoDark@TI____________________________________________________
+TechnoDark@TI________________________________________________
 
 OS: Pop!OS 22.04 LTS
 Host: Technodark - Consultoria de TI
