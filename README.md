@@ -41,6 +41,3 @@ Steam: augustosenju
   <img alt="#00ff00" src="https://via.placeholder.com/15/00ff00/000000?text=+" width="25" height="20" />
   <img alt="#00ff00" src="https://via.placeholder.com/15/00ff00/000000?text=+" width="25" height="20" />
 </p>
-
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnoDark-ti)] 
