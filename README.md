@@ -43,4 +43,4 @@ Steam: augustosenju
 </p>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnodDark-ti)] 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnoDark-ti)] 
