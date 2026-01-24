@@ -12,7 +12,7 @@
 ```neofetch
 TechnoDark@TI________________________________________________
 
-OS: Pop!OS 22.04 LTS
+OS: Pop!OS 24.04 LTS
 Host: Technodark - Consultoria de TI
 Shell: bash 5.1
 Skills: Full-Stack, GameDev, CyberSecurity, NetWorking
@@ -43,4 +43,4 @@ Steam: augustosenju
 </p>
 
 
-<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnodDark-ti)] -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechnodDark-ti)] 
