@@ -21,14 +21,14 @@ OS: Pop!OS 24.04 LTS
 Host: Technodark - Consultoria de TI
 Shell: bash 5.1
 Skills: Full-Stack, GameDev, CyberSecurity, Networking
-IDE: VS Code, Vim, Code::Blocks, NetBeans
+IDE: Sublime Text, Vim, Code::Blocks
 
-Languages.Fluent: Python, C/C++, Lua, ShellScript
-Languages.Learning: GDScript, MySQL
+Languages.Fluent: Java, Php, Python, C/C++, Lua, ShellScript, SQL
+Languages.Learning: GDScript, MariaDB, Postgresql, vue.js
 Languages.Real: Português, English
 
 Game.Engines: Godot Engine, CryEngine, Unreal Engine
-Frameworks: Löve, Pygame, Bootstrap
+Frameworks: Laravel, Spring Bot, Bootstrap, Tailcss, Löve, Pygame
 
 Location: Pará, Brasil
 </pre>
