@@ -56,18 +56,43 @@ I want to understand how things work — and build them.
 ---
 
 ## `~/current`
-
 ```text
 ┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
 │                                                                 │
-│  ERP Platform                                                   │
+│  Falcon - Hospedagem                                            │
 │                                                                 │
-│  A business management system designed from the ground up      │
+│         Advanced hotel management system                        │
+│                                                                 │
+│  Vue.js · NodeJS · PostgreSQL                                   │
+│                                                                 │
+│  [ STATUS ] █░░░░░░░░░░░░░░░░░░  DEVELOPMENT                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+```text
+┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
+│                                                                 │
+│  Falcon - ERP                                                   │
+│                                                                 │
+│  A business management system designed from the ground up       │
 │  with simplicity, performance and accessibility in mind.        │
 │                                                                 │
-│  Vue.js · Laravel · PostgreSQL                                  │
+│  Vue.js · Laravel · MariaDB                                     │
 │                                                                 │
-│  [ STATUS ] █████████░░░░░░░░░  DEVELOPMENT                    │
+│  [ STATUS ] ████░░░░░░░░░░░░░░░  DEVELOPMENT                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+```text
+┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
+│                                                                 │
+│  FALCON - PDV                                                   │
+│                                                                 │
+│  advanced point-of-sale and commercial financial control system │
+│                                                                 │
+│  Vue.js · Laravel · MariaDB                                     │
+│                                                                 │
+│  [ STATUS ] █████████████████░  DEVELOPMENT                     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
