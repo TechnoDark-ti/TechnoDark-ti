@@ -1,56 +1,223 @@
-# Márcio Moda
+# `TechnoDark@TI`
 
-<p align="left">
-  <a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot%20Engine-Community%20Member-brightgreen?style=flat-square&logo=godotengine&logoColor=white" /></a>
-  <a href="https://www.unrealengine.com"><img src="https://img.shields.io/badge/Unreal%20Engine-Developer-blue?style=flat-square&logo=unrealengine&logoColor=white" /></a>
-  <a href="https://www.cryengine.com"><img src="https://img.shields.io/badge/CryEngine-Contributor-orange?style=flat-square&logo=cryengine&logoColor=white" /></a>
-</p>
+```text
+ __  __    _    ____   ____ ___ ___    __  __  ___  ____    _    
+|  \/  |  / \  |  _ \ / ___|_ _/ _ \  |  \/  |/ _ \|  _ \  / \   
+| |\/| | / _ \ | |_) | |    | | | | | | |\/| | | | | | | |/ _ \  
+| |  | |/ ___ \|  _ <| |___ | | |_| | | |  | | |_| | |_| / ___ \ 
+|_|  |_/_/   \_\_| \_\\____|___\___/  |_|  |_|\___/|____/_/   \_\
 
----
+```
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="foto_perfil_github2025.png" alt="Márcio Moda" width="100%" style="border-radius: 8px;" />
-    </td>
-    <td width="65%" valign="top">
-<pre>
-TechnoDark@TI________________________________________________
+```text
+╭──────────────────────────────────────────────────────────────────╮
+│  MÁRCIO MODA - TECHNODARK                                       │
+│  Software Developer · Systems · Linux · AI · GameDev            │
+╰──────────────────────────────────────────────────────────────────╯
 
-OS: Pop!OS 24.04 LTS
-Host: Technodark - Consultoria de TI
-Shell: bash 5.1
-Skills: Full-Stack, GameDev, CyberSecurity, Networking
-IDE: Sublime Text, Vim, Code::Blocks
+$ neofetch
 
-Languages.Fluent: Java, Php, Python, C/C++, Lua, ShellScript, SQL
-Languages.Learning: GDScript, MariaDB, Postgresql, vue.js
-Languages.Real: Português, English
+OS:        Pop!_OS
+HOST:      TechnoDark
+SHELL:     bash
+EDITOR:    Vim / Sublime Text 4
+LOCATION:  Pará, Brasil
 
-Game.Engines: Godot Engine, CryEngine, Unreal Engine
-Frameworks: Laravel, Spring Bot, Bootstrap, Tailcss, Löve, Pygame
-
-Location: Pará, Brasil
-</pre>
-    </td>
-  </tr>
-</table>
+ROLE:      Software Developer
+FOCUS:     Software · Systems · Automation · Computer Vision
+STATUS:    Building
+```
 
 ---
 
-### 📬 Conecte-se comigo
+## `~/about`
 
-<p align="left">
-  <a href="mailto:marciomoda18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/m%C3%A1rcio-moda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=augustosenju" alt="Discord" />
-  </a>
-  <a href="https://steamcommunity.com" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=augustosenju" alt="Steam" />
-  </a>
-</p>
+```text
+I build software with a practical mindset.
+
+My background crosses software development, Linux,
+infrastructure, automation, computer vision and GameDev.
+
+I like understanding the whole system:
+
+    hardware → operating system → network → backend
+                     ↓
+                 database
+                     ↓
+                 application
+                     ↓
+                   user
+
+I don't want to be limited to a single technology.
+
+I want to understand how things work — and build them.
+```
+
+---
+
+## `~/current`
+
+```text
+┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
+│                                                                 │
+│  ERP Platform                                                   │
+│                                                                 │
+│  A business management system designed from the ground up      │
+│  with simplicity, performance and accessibility in mind.        │
+│                                                                 │
+│  Vue.js · Laravel · PostgreSQL                                  │
+│                                                                 │
+│  [ STATUS ] █████████░░░░░░░░░  DEVELOPMENT                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `~/projects`
+
+### `01` — ALFALIBRAS
+
+**Computer Vision · Artificial Intelligence · Education**
+
+A Libras ↔ Português application developed as an academic project, using computer vision and machine learning to recognize hand signs.
+
+```text
+Python · OpenCV · MediaPipe · PyTorch · Flet
+```
+
+→ [Repository](https://github.com/TechnoDark-ti/alfalibras)
+
+---
+
+### `02` — Native From Country
+
+**Game Development · Godot**
+
+One of my earlier GameDev projects, created with Godot and representing part of my development journey since 2018.
+
+```text
+Godot · GDScript
+```
+
+→ [Repository](https://github.com/TechnoDark-ti/Native-From-Country)
+
+---
+
+### `03` — Linux / Shell
+
+**Systems · Automation · Linux**
+
+A collection of shell scripts for automating and configuring Linux desktop and server environments.
+
+```text
+Linux · Bash · Shell
+```
+
+→ [Repository](https://github.com/TechnoDark-ti/Scripts-em-Shell)
+
+---
+
+## `~/stack`
+
+```text
+LANGUAGES
+
+  Python        ████████████████████
+  C / C++       ████████████████░░░░
+  Java          ███████████████░░░░░
+  PHP           ███████████████░░░░░
+  SQL           ███████████████░░░░░
+  Shell         ██████████████░░░░░░
+  JavaScript    █████████████░░░░░░░
+
+BACKEND
+
+  Laravel · Spring Boot · REST APIs
+
+FRONTEND
+
+  Vue.js · HTML · CSS
+
+SYSTEMS
+
+  Linux · Networking · Shell · Git
+
+AI / COMPUTER VISION
+
+  PyTorch · OpenCV · MediaPipe
+
+GAMEDEV
+
+  Godot · GDScript
+```
+
+> The technologies above are tools.
+> The real skill is knowing when and why to use them.
+
+---
+
+## `~/principles`
+
+```text
+01. Understand before implementing.
+
+02. Prefer simple systems over unnecessary complexity.
+
+03. Automate repetitive work.
+
+04. Learn the fundamentals behind the abstractions.
+
+05. Build things that solve real problems.
+
+06. Keep improving the system — and myself.
+```
+
+---
+
+## `~/activity`
+
+```text
+[+] Building a business management platform
+[+] Studying software architecture
+[+] Improving backend development
+[+] Exploring AI / Computer Vision
+[+] Working with Linux and systems
+[+] Experimenting with GameDev
+```
+
+---
+
+## `~/contact`
+
+```text
+$ whoami
+
+Márcio Moda
+Software Developer
+TechnoDark
+
+$ echo $LINKS
+
+GitHub    → github.com/TechnoDark-ti
+LinkedIn  → linkedin.com/in/márcio-moda
+```
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  "Build systems. Understand technology. Solve problems."         │
+│                                                                  │
+│                         TechnoDark@TI                             │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+`$ exit`
+
+```text
+Connection closed.
+Come back when there's something new to build.
+```
