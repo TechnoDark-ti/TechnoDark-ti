@@ -56,46 +56,24 @@ I want to understand how things work — and build them.
 ---
 
 ## `~/current`
-```text
-┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
+┌─ FALCON ECOSYSTEM ──────────────────────────────────────────────┐
 │                                                                 │
-│  Falcon - Hospedagem                                            │
+│  [01] HOSPEDAGEM                                                │
+│       Hotel management system                                   │
+│       Vue.js · Node.js · PostgreSQL                             │
+│       STATUS █░░░░░░░░░░░░░░░░░░ DEVELOPMENT                    │
 │                                                                 │
-│         Advanced hotel management system                        │
+│  [02] ERP                                                        │
+│       Business management system                                │
+│       Vue.js · Laravel · MariaDB                                │
+│       STATUS ████░░░░░░░░░░░░░░ DEVELOPMENT                    │
 │                                                                 │
-│  Vue.js · NodeJS · PostgreSQL                                   │
-│                                                                 │
-│  [ STATUS ] █░░░░░░░░░░░░░░░░░░  DEVELOPMENT                    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-```text
-┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
-│                                                                 │
-│  Falcon - ERP                                                   │
-│                                                                 │
-│  A business management system designed from the ground up       │
-│  with simplicity, performance and accessibility in mind.        │
-│                                                                 │
-│  Vue.js · Laravel · MariaDB                                     │
-│                                                                 │
-│  [ STATUS ] ████░░░░░░░░░░░░░░░  DEVELOPMENT                    │
+│  [03] PDV                                                        │
+│       Point of Sale & financial control                          │
+│       Vue.js · Laravel · MariaDB                                │
+│       STATUS █████████████████░ DEVELOPMENT                     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
-```
-```text
-┌─ CURRENTLY BUILDING ────────────────────────────────────────────┐
-│                                                                 │
-│  FALCON - PDV                                                   │
-│                                                                 │
-│  advanced point-of-sale and commercial financial control system │
-│                                                                 │
-│  Vue.js · Laravel · MariaDB                                     │
-│                                                                 │
-│  [ STATUS ] █████████████████░  DEVELOPMENT                     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -146,15 +124,10 @@ Linux · Bash · Shell
 ## `~/stack`
 
 ```text
-LANGUAGES
+$ cat /etc/technodark/stack.conf
 
-  Python        ████████████████████
-  C / C++       ████████████████░░░░
-  Java          ███████████████░░░░░
-  PHP           ███████████████░░░░░
-  SQL           ███████████████░░░░░
-  Shell         ██████████████░░░░░░
-  JavaScript    █████████████░░░░░░░
+LANGUAGES
+  Python · C/C++ · Java · PHP · SQL · Shell · JavaScript
 
 BACKEND
 
@@ -203,12 +176,14 @@ GAMEDEV
 ## `~/activity`
 
 ```text
-[+] Building a business management platform
-[+] Studying software architecture
-[+] Improving backend development
-[+] Exploring AI / Computer Vision
-[+] Working with Linux and systems
-[+] Experimenting with GameDev
+$ journalctl -u technodark --no-pager
+
+Oct 2026  [INFO] Falcon ecosystem under development
+Oct 2026  [INFO] ERP architecture evolving
+Oct 2026  [INFO] PDV development active
+Oct 2026  [INFO] Backend stack: Laravel / Node.js
+Oct 2026  [INFO] Computer Vision research ongoing
+Oct 2026  [INFO] Linux environment operational
 ```
 
 ---
@@ -222,10 +197,10 @@ Márcio Moda
 Software Developer
 TechnoDark
 
-$ echo $LINKS
+$ env | grep LINK
 
-GitHub    → github.com/TechnoDark-ti
-LinkedIn  → linkedin.com/in/márcio-moda
+GITHUB    github.com/TechnoDark-ti
+LINKEDIN  linkedin.com/in/márcio-moda
 ```
 
 ---
@@ -235,7 +210,7 @@ LinkedIn  → linkedin.com/in/márcio-moda
 │                                                                  │
 │  "Build systems. Understand technology. Solve problems."         │
 │                                                                  │
-│                         TechnoDark@TI                             │
+│                         Márcio Moda                              │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
