@@ -56,6 +56,7 @@ I want to understand how things work — and build them.
 ---
 
 ## `~/current`
+```text
 ┌─ FALCON ECOSYSTEM ──────────────────────────────────────────────┐
 │                                                                 │
 │  [01] HOSPEDAGEM                                                │
@@ -63,18 +64,18 @@ I want to understand how things work — and build them.
 │       Vue.js · Node.js · PostgreSQL                             │
 │       STATUS █░░░░░░░░░░░░░░░░░░ DEVELOPMENT                    │
 │                                                                 │
-│  [02] ERP                                                        │
+│  [02] ERP                                                       │
 │       Business management system                                │
 │       Vue.js · Laravel · MariaDB                                │
-│       STATUS ████░░░░░░░░░░░░░░ DEVELOPMENT                    │
+│       STATUS ████░░░░░░░░░░░░░░ DEVELOPMENT                     │
 │                                                                 │
-│  [03] PDV                                                        │
-│       Point of Sale & financial control                          │
+│  [03] PDV                                                       │
+│       Point of Sale & financial control                         │
 │       Vue.js · Laravel · MariaDB                                │
 │       STATUS █████████████████░ DEVELOPMENT                     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
-
+```
 ---
 
 ## `~/projects`
