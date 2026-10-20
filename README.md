@@ -59,13 +59,13 @@ I want to understand how things work — and build them.
 ```text
 ┌─ FALCON ECOSYSTEM ──────────────────────────────────────────────┐
 │                                                                 │
-│  [01] HOSPEDAGEM                                                │
-│       Hotel management system                                   │
-│       Vue.js · Node.js · PostgreSQL                             │
+│  [01] PMS                                                       │
+│       Hotel management System                                   │
+│       Vue.js · Laravel · PostgreSQL                             │
 │       STATUS █░░░░░░░░░░░░░░░░░░ DEVELOPMENT                    │
 │                                                                 │
 │  [02] ERP                                                       │
-│       Business management system                                │
+│       Business Management System                                │
 │       Vue.js · Laravel · MariaDB                                │
 │       STATUS ████░░░░░░░░░░░░░░ DEVELOPMENT                     │
 │                                                                 │
